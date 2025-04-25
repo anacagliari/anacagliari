@@ -1,6 +1,8 @@
 ## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anacagliari&color=blue" alt="Profile views" /> </p>
 
+ ## Estou em constante desenvolvimento e sempre buscando aprofundar meu conhecimento em diversas tecnologias para melhorar minhas contribuições e projetos.
+ 
 ![Snake animation](https://raw.githubusercontent.com/caulicons/caulicons/output/github-contribution-grid-snake-dark.svg)
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ana+Cagliari;I'm+32+years+old;I'm+from+Brazil;I'm+a+Software+Developer+Student;Be+Welcome!+:%29)
 - 🔭 Atualmente estou trabalhando em [DB](https://www.linkedin.com/company/dbserver/posts/?feedView=all)
@@ -18,6 +20,8 @@
 </p>
 
  ##
+
+ ### Abaixo segue as linguagens e ferramentas que tenho ou já tive contato.
 
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
@@ -47,6 +51,8 @@
 [![vscode](https://skillicons.dev/icons?i=vscode)](https://vscode.io/)
 [![visualstudio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.io/)
 [![Kafka](https://skillicons.dev/icons?i=kafka)](https://kafka.io/)
+
+Sim, sou uma arquiteta desenvolvedora, ou vice-versa 
 
 [![autocad](https://skillicons.dev/icons?i=autocad)](https://autocad.io/)
 [![sketchup](https://skillicons.dev/icons?i=sketchup)](https://sketchup.io/)
